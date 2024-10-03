@@ -2,6 +2,9 @@ import os
 from dotenv import load_dotenv
 from langchain_core.prompts import PromptTemplate
 from langchain_openai import ChatOpenAI
+from langchain_ollama import ChatOllama
+from langchain_core.output_parsers import StrOutputParser
+
 
 load_dotenv()  # Load the environment
 
@@ -22,8 +25,15 @@ if __name__ == "__main__":
         input_variables=["information"], template=summary_template
     )
 
-    llm = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo")    #temperature defines the creativity in the responses, 0 represents no creativity
+    # llm = ChatOpenAI(temperature=0, model_name="gpt-3.5-turbo")    #temperature defines the creativity in the responses, 0 represents no creativity
 
-    chain = summary_prompt_template | llm
+    # llm =  ChatOllama(model="llama3")   # using  llama3 MOdel
+
+    llm =  ChatOllama(model="mistral")   # using  mistral MOdel
+
+
+    chain = summary_prompt_template | llm | StrOutputParser()
 
     res = chain.invoke(input={"information": information})
+
+    print(res)
