@@ -1,0 +1,535 @@
+{
+    "public_identifier": "rsaxenaishabh",
+    "profile_pic_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/rsaxenaishabh/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241004%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241004T033220Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=532f08abd84e91ff94105ceb2acf9b6f9160701a5d19624d7eab97c0f7e931f0",
+    "background_cover_image_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/person/rsaxenaishabh/cover?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241004%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241004T033220Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=d26dc9ad8c82b182e8575911cefb0cfdd8a7b5cbe3b697223f1aca0535535f42",
+    "first_name": "Rishabh",
+    "last_name": "Saxena",
+    "full_name": "Rishabh Saxena",
+    "follower_count": 6309,
+    "occupation": "Associate Lead Data Scientist  at Nagarro",
+    "headline": "Associate Lead Data Scientist @Nagarro | 2x AWS certified Machine Learning Specialist | 4x Azure Certified Data Scientist | Machine learning | Optimization | Deep RL",
+    "summary": "Experienced Data Scientist with a demonstrated history of solving real world business problems across a wide range of domains. Adept at utilizing Machine Learning, Decision Optimization, Statistical Modeling, Predictive Analytics and Cloud Capabilities to deliver tangible results to business. Experienced in working in the end-to-end lifecycle of Data Science projects as well as in Research and Development (R&D) teams.",
+    "country": "IN",
+    "country_full_name": "India",
+    "city": "Delhi",
+    "state": null,
+    "experiences": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2023
+            },
+            "ends_at": null,
+            "company": "Nagarro",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/nagarro/",
+            "company_facebook_profile_url": null,
+            "title": "Associate Lead Data Scientist ",
+            "description": null,
+            "location": "Gurugram, Haryana, India",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/nagarro/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241004%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241004T033223Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=add48f525f39697b0525f67f17a449e2b13326000037308ad35151867d6a4c6c"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2022
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2023
+            },
+            "company": "Nagarro",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/nagarro/",
+            "company_facebook_profile_url": null,
+            "title": "Senior Data Scientist",
+            "description": null,
+            "location": "Gurugram, Haryana, India",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/nagarro/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241004%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241004T033223Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=add48f525f39697b0525f67f17a449e2b13326000037308ad35151867d6a4c6c"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2020
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 3,
+                "year": 2022
+            },
+            "company": "Nagarro",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/nagarro/",
+            "company_facebook_profile_url": null,
+            "title": "Data Scientist",
+            "description": null,
+            "location": "Gurgaon, India",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/nagarro/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241004%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241004T033223Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=add48f525f39697b0525f67f17a449e2b13326000037308ad35151867d6a4c6c"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 10,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2020
+            },
+            "company": "Nagarro",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/nagarro/",
+            "company_facebook_profile_url": null,
+            "title": "Associate Data Scientist",
+            "description": null,
+            "location": "Gurugram, Haryana, India",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/nagarro/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241004%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241004T033223Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=add48f525f39697b0525f67f17a449e2b13326000037308ad35151867d6a4c6c"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2019
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2019
+            },
+            "company": "Nagarro",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/nagarro/",
+            "company_facebook_profile_url": null,
+            "title": "Technical Trainee, Machine Learning",
+            "description": null,
+            "location": "Gurgaon, Haryana",
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/nagarro/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241004%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241004T033223Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=add48f525f39697b0525f67f17a449e2b13326000037308ad35151867d6a4c6c"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 6,
+                "year": 2018
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 8,
+                "year": 2018
+            },
+            "company": "IBM",
+            "company_linkedin_profile_url": "https://www.linkedin.com/company/ibm/",
+            "company_facebook_profile_url": null,
+            "title": "Internship Trainee",
+            "description": null,
+            "location": null,
+            "logo_url": "https://s3.us-west-000.backblazeb2.com/proxycurl/company/ibm/profile?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=0004d7f56a0400b0000000001%2F20241004%2Fus-west-000%2Fs3%2Faws4_request&X-Amz-Date=20241004T033223Z&X-Amz-Expires=1800&X-Amz-SignedHeaders=host&X-Amz-Signature=8968214ad88a1899774a8b4c12a66b26c10e43c7670acec9f2341ae2b81e8f11"
+        }
+    ],
+    "education": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 4,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 4,
+                "year": 2023
+            },
+            "field_of_study": "Data Science and Engineering",
+            "degree_name": "Master of Technology - MTech",
+            "school": "Birla Institute of Technology and Science, Pilani",
+            "school_linkedin_profile_url": null,
+            "school_facebook_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/D4D0BAQHJcHjUCqWVbA/company-logo_400_400/0/1695033146996/birla_institute_of_technology_and_science_pilani_logo?e=1707955200&v=beta&t=EypY8MgnC6WPZdjoz7bnTB-ktSZhclzl3suqq8ooBFg",
+            "grade": "8.2",
+            "activities_and_societies": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 1,
+                "year": 2015
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 1,
+                "year": 2019
+            },
+            "field_of_study": "Computer Science engineering with specialization in IT- infrastructure",
+            "degree_name": "Bachelor's degree",
+            "school": "UPES",
+            "school_linkedin_profile_url": null,
+            "school_facebook_profile_url": null,
+            "description": null,
+            "logo_url": "https://media.licdn.com/dms/image/C560BAQGIsLgya7K1ZA/company-logo_400_400/0/1642751223450/upesdehradun_logo?e=1707955200&v=beta&t=QA2eSJDubYuU9Gl6uIjgrFMxMOb1XY3XC69mIPutGAs",
+            "grade": "8.3",
+            "activities_and_societies": null
+        }
+    ],
+    "languages": [],
+    "languages_and_proficiencies": [],
+    "accomplishment_organisations": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2020
+            },
+            "ends_at": null,
+            "org_name": "Stack Overflow",
+            "title": null,
+            "description": null
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 7,
+                "year": 2019
+            },
+            "ends_at": null,
+            "org_name": "Github",
+            "title": null,
+            "description": null
+        }
+    ],
+    "accomplishment_publications": [],
+    "accomplishment_honors_awards": [
+        {
+            "title": "Brightest Mind Award - Best of the best",
+            "issuer": "Nagarro Software Pvt Ltd",
+            "issued_on": {
+                "day": 1,
+                "month": 6,
+                "year": 2023
+            },
+            "description": "The Brightest Mind\u201d award, the best of the best! This award is just another way for Nagarro to express its appreciation and recognition for employee's outstanding performance and contribution."
+        },
+        {
+            "title": "The Brightest Mind - The Best of the Best",
+            "issuer": "Nagarro Software Pvt Ltd",
+            "issued_on": {
+                "day": 1,
+                "month": 8,
+                "year": 2022
+            },
+            "description": "\u201cThe Brightest Mind\u201d award, the best of the best! This award is just another way for Nagarro to express its appreciation and recognition for employee's outstanding performance and contribution."
+        },
+        {
+            "title": "The Brightest Mind - The Best of the Best",
+            "issuer": "Nagarro software Pvt Ltd",
+            "issued_on": {
+                "day": 1,
+                "month": 12,
+                "year": 2021
+            },
+            "description": "\u201cThe Brightest Mind\u201d award, the best of the best! This award is just another way for Nagarro to express its appreciation and recognition for employee's outstanding performance and contribution."
+        },
+        {
+            "title": "CheerBoard Award",
+            "issuer": "Nagarro Software Pvt Ltd",
+            "issued_on": {
+                "day": 1,
+                "month": 3,
+                "year": 2021
+            },
+            "description": "Nominated For Excellent work in Client Based Prototype development. Developed a very complex prototype in very short time and helped Nagarro to convert this prototype into a big Project."
+        },
+        {
+            "title": "CheerBoard Award",
+            "issuer": "Nagarro Software Pvt. Ltd",
+            "issued_on": {
+                "day": 1,
+                "month": 1,
+                "year": 2021
+            },
+            "description": "Nominated For Excellent work in Client Project. The Project involves developing AI based scheduling for manufacturing client. The contribution was on Developing the AI algorithm code and MLFlow implementation for tracking experiments, improving speed of the execution by migrating key parts of code in Julia and tackled the deployment challenges effectively."
+        }
+    ],
+    "accomplishment_patents": [],
+    "accomplishment_courses": [
+        {
+            "name": "Advance AI: Deep Reinforcement learning in Python on Udemy",
+            "number": null
+        },
+        {
+            "name": "Artificial Intelligence: Reinforcement Learning in Python on udemy ",
+            "number": null
+        },
+        {
+            "name": "Deep Learning A-Z: Hands-on ANN on Udemy",
+            "number": null
+        },
+        {
+            "name": "Feature Engineering for Machine Learning on Udemy",
+            "number": null
+        },
+        {
+            "name": "Machine Learning A-Z: hands-on python and R in Data Science on Udemy",
+            "number": null
+        },
+        {
+            "name": "Machine Learning Course offered by Stanford University on Coursera",
+            "number": null
+        },
+        {
+            "name": "Python for Data science and machine learning bootcamp On Udemy",
+            "number": null
+        },
+        {
+            "name": "Reinforcement Learning Specialization offered by University of Alberta on Coursera",
+            "number": null
+        },
+        {
+            "name": "Statistical Learning Offered by Stanford on Edx",
+            "number": null
+        }
+    ],
+    "accomplishment_projects": [],
+    "accomplishment_test_scores": [],
+    "volunteer_work": [],
+    "certifications": [
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 9,
+                "year": 2022
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 9,
+                "year": 2025
+            },
+            "name": "AWS Certified Machine Learning \u2013 Specialty",
+            "license_number": null,
+            "display_source": "credly.com",
+            "authority": "Amazon Web Services (AWS)",
+            "url": "https://www.credly.com/badges/c46aa269-a256-4fbb-abe6-550cebe3b49e/linked_in_profile"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 2,
+                "year": 2022
+            },
+            "ends_at": {
+                "day": 28,
+                "month": 2,
+                "year": 2025
+            },
+            "name": "AWS Certified Cloud Practitioner",
+            "license_number": "GGRFE9NB3EFE1BK1",
+            "display_source": "credly.com",
+            "authority": "Amazon Web Services (AWS)",
+            "url": "https://www.credly.com/badges/f45c2e82-3371-43d5-84cb-01e883052e23?source=linked_in_profile"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 31,
+                "month": 5,
+                "year": 2023
+            },
+            "name": "Microsoft Certified: Azure AI Engineer Associate",
+            "license_number": null,
+            "display_source": "credly.com",
+            "authority": "Microsoft",
+            "url": "https://www.credly.com/badges/fb54c86b-2dee-4a34-a46f-74b2e1b7ef2c?source=linked_in_profile"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2021
+            },
+            "ends_at": null,
+            "name": "Microsoft Certified: Azure AI Fundamentals",
+            "license_number": null,
+            "display_source": "credly.com",
+            "authority": "Microsoft",
+            "url": "https://www.credly.com/badges/b8af1500-3062-4bdf-a24d-9e4ce6da5cef?source=linked_in_profile"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2021
+            },
+            "ends_at": null,
+            "name": "Microsoft Certified: Azure Fundamentals",
+            "license_number": "H815013",
+            "display_source": "credly.com",
+            "authority": "Microsoft",
+            "url": "https://www.credly.com/badges/9da7d566-d6b9-4296-84d2-554674283b1a?source=linked_in_profile"
+        },
+        {
+            "starts_at": {
+                "day": 1,
+                "month": 5,
+                "year": 2021
+            },
+            "ends_at": {
+                "day": 30,
+                "month": 6,
+                "year": 2023
+            },
+            "name": "Microsoft certified Azure Data Scientist Associate",
+            "license_number": "H8007333",
+            "display_source": "credly.com",
+            "authority": "Microsoft",
+            "url": "https://www.credly.com/badges/d5e8e634-5745-4c90-8a03-d9f2d6caaefa/linked_in"
+        }
+    ],
+    "connections": null,
+    "people_also_viewed": [
+        {
+            "link": "https://www.linkedin.com/in/sharatsachin",
+            "name": "Sharat Sachin",
+            "summary": "Senior Data Scientist at Nagarro",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/mustaq-mollah",
+            "name": "Mustaq Mollah",
+            "summary": "Data Scientist @ Nagarro",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/simran-mehta-766277190",
+            "name": "Simran Mehta",
+            "summary": "Data Scientist @ Nagarro | AWS Certified Machine Learning Specialty | Databricks ML Certified | Data Science | Optimization",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/ashuchhabra",
+            "name": "Ashu Chhabra ",
+            "summary": "Data Scientist at Nagarro",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/aayushi-sharma1",
+            "name": "Aayushi Sharma",
+            "summary": "Data scientist @ Nagarro",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/kunaljain21994",
+            "name": "Kunal Jain",
+            "summary": "Data Scientist | Deep Learning | Computer Vision | NLP",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/namansahore",
+            "name": "Naman Sahore",
+            "summary": "Associate Lead Data Scientist @ Nagarro",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/umesh-pandey-b2b102bb",
+            "name": "Umesh Pandey",
+            "summary": "Data scientist at Nagarro",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/akash-bhardwaj-225a9015a",
+            "name": "Akash Bhardwaj",
+            "summary": "Data Scientist | Senior Software Engineer at Nagarro",
+            "location": null
+        },
+        {
+            "link": "https://www.linkedin.com/in/shivanshu-aggarwal",
+            "name": "Shivanshu Aggarwal",
+            "summary": "Lead Data Scientist ** AWS & Microsoft Certified ** MBA in Business Analytics ** Content Writer ** Mentor",
+            "location": null
+        }
+    ],
+    "recommendations": [],
+    "activities": [
+        {
+            "title": "View my verified achievement from Microsoft.",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Liked by Rishabh Saxena"
+        },
+        {
+            "title": "It's good to test your skills and earn certification !!\n#microsoft #certification #powerbi",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Liked by Rishabh Saxena"
+        },
+        {
+            "title": "Feeling proud to be part of a successful story .\n\nThank you Hariram Subramanian Gopal Aanish Singla for your support and guidance.\n\nThank you Rishabh\u2026",
+            "link": "https://www.linkedin.com/signup/cold-join",
+            "activity_status": "Liked by Rishabh Saxena"
+        }
+    ],
+    "similarly_named_profiles": [
+        {
+            "name": "Rishabh Saxena",
+            "link": "https://in.linkedin.com/in/rishabh-saxena-372b28a0",
+            "summary": "Head Of Procurement at Government of Uttar Pradesh",
+            "location": "Rampur"
+        },
+        {
+            "name": "Rishabh Saxena",
+            "link": "https://in.linkedin.com/in/iamrishsaxena",
+            "summary": "Growth Specialist \uffe8SaaS Product Marketing \uffe8CRM & ERP Specialist \uffe8Digital Transformation Specialist & Media Influencer",
+            "location": "Pune"
+        },
+        {
+            "name": "Rishabh Saxena",
+            "link": "https://in.linkedin.com/in/rishabh-saxena-01952818",
+            "summary": "Team Leader at BirchStreet Systems",
+            "location": "West Delhi"
+        },
+        {
+            "name": "Rishabh Saxena",
+            "link": "https://in.linkedin.com/in/rishabh-saxena-557169159",
+            "summary": "Equity Research Intern at Goldman Sachs | Placement Support Committee, XLRI | Ex-Citibank | BITS Pilani",
+            "location": "Bengaluru"
+        }
+    ],
+    "articles": [],
+    "groups": [],
+    "skills": [
+        "Leadership",
+        "Machine Learning",
+        "statistical learning",
+        "Amazon Web Services (AWS)",
+        "Programming",
+        "Statistical Modeling",
+        "Deep Reinforcement Learning",
+        "Research",
+        "Deep Learning",
+        "Data Science",
+        "Object-Oriented Programming (OOP)",
+        "Python (Programming Language)",
+        "R",
+        "R Shiny",
+        "Java",
+        "C++",
+        "C (Programming Language)",
+        "SQL",
+        "GitHub",
+        "Teamwork"
+    ],
+    "inferred_salary": {
+        "min": null,
+        "max": null
+    },
+    "gender": null,
+    "birth_date": null,
+    "industry": null,
+    "extra": {
+        "github_profile_id": null,
+        "twitter_profile_id": null,
+        "facebook_profile_id": null
+    },
+    "interests": [],
+    "personal_emails": [],
+    "personal_numbers": []
+}

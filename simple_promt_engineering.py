@@ -29,8 +29,7 @@ if __name__ == "__main__":
 
     # llm =  ChatOllama(model="llama3")   # using  llama3 MOdel
 
-    llm =  ChatOllama(model="mistral")   # using  mistral MOdel
-
+    llm = ChatOllama(model="mistral")  # using  mistral MOdel
 
     chain = summary_prompt_template | llm | StrOutputParser()
 
